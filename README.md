@@ -14,4 +14,4 @@ this map feature multiple core in plain area, enemy have multiple drop point com
 
 this map feature singular core on medium sized island
 
-![img1](./IMG_1258.jpg)
+![img1](./IMG_1258.jpeg)

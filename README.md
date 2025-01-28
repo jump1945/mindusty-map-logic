@@ -8,4 +8,8 @@ mindusty map is user-created map
 
 ### map 1 : center point
 
-the map feature multiple core in plain area, enemy have multiple drop point coming from all side
+this map feature multiple core in plain area, enemy have multiple drop point coming from all side
+
+### map 2 : defend the island
+
+this map feature singular core on medium sized island

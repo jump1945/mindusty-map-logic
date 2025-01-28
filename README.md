@@ -16,7 +16,7 @@ this map feature singular core on medium sized island
 
 ![defense island minimap](./IMG_1258.jpeg)
 
-the starter building contain well-built storage resource gathering and basic defense sythem
+the starter building contain well-built storage resource-gathering energy-producing and basic-defense sythem
 
 ![defense island starter core](./IMG_1260.jpeg)
 

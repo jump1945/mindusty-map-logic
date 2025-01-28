@@ -4,7 +4,7 @@ mindusty is RTS(real time strategy) game based on defending or attacking enemy c
 
 # map information
 
-mindusty map is user-created map
+mindusty map is user-created map, is stored in .bin format
 
 ## map 1 : center point
 

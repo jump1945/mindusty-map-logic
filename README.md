@@ -22,6 +22,6 @@ the starter building contain well-built storage resource gathering and basic def
 
 the enemy on this map will be 20 waves of very intense fast paced navalxarial assualt from all side with each wave only have interval of 60 second
 
-special feature\
+special feature. 
 
 -player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost

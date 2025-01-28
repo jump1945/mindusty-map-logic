@@ -14,10 +14,10 @@ this map feature multiple core in plain area, enemy have multiple drop point com
 
 this map feature singular core on medium sized island
 
-![img1](./IMG_1258.jpeg)
+![defense island minimap](./IMG_1258.jpeg)
 
-the starter building contain well-built storage and basic defense sythem
+the starter building contain well-built storage resource gathering and basic defense sythem
 
-![img2](./IMG_1259.jpeg)
+![defense island starter core](./IMG_1260.jpeg)
 
-the enemy on this map will be 20 waves of very intense fast paced navalxarial assualt with each wave only have interval of 60 second
+the enemy on this map will be 20 waves of very intense fast paced navalxarial assualt from all side with each wave only have interval of 60 second

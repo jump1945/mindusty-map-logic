@@ -13,3 +13,5 @@ this map feature multiple core in plain area, enemy have multiple drop point com
 ### map 2 : defend the island
 
 this map feature singular core on medium sized island
+
+![img1](./IMG_1258.jpg)

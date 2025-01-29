@@ -62,5 +62,9 @@ special feature.
 
 ## map 5 : infinite attack map
 
-    this map feature the 
+this map feature the `resource factory` ,it produce either any resource or any liquid
+
+### what is resource factory
+
+`resource factory` is undestructible
 

@@ -8,7 +8,7 @@ mindusty map is user-created map, is stored in .bin format.
 
 ## map 1 : center point
 
-this map feature multiple core in plain area, enemy have multiple drop point coming from all side with one side as special river for naval attack.  
+this map feature multiple core in plain area, enemy have multiple droppoint and coming from all side with one side as a river for naval attack.  
 
 the main core stationed in the middle of the map,main core consist of a lot of core, assistance unit spawned on the main core.
 

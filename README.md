@@ -34,7 +34,7 @@ the enemy on this map will be 20 waves of very intense fast paced navalxarial as
 
 special feature. 
 
--player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
+- player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
 
 `beatable confirmed`
 

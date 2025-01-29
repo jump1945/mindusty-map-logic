@@ -32,3 +32,9 @@ the enemy on this map will be 20 waves of very intense fast paced navalxarial as
 special feature. 
 
 -player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
+
+## map 3 : attack the HQ
+
+this is attack map
+
+the map feature singular core, multiple enemy base that needed all type of unit for an attack the main base is shielded by completely unbreakable shield, the way to turn it off is to shut down every of its energy source

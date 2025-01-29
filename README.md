@@ -17,6 +17,9 @@ special feature.
 - player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
 - modified mono:mono now attack with rainbow blasting ability , it still have low health but blasted tier 5 away within seconds , not only that when destroyed also release self-destruction green blast, the range is low so you better prepare multiple air defense before it appeared
 - assistance unit,after set amount of time assistance unit is spawned to help the player,consist of mono which spawn almost immediatly and poly later on. the unit is specially marked with permanant buff to help them work better
+
+`beatable confirmed`
+
 ## map 2 : defend the island
 
 this map feature singular core on medium sized island
@@ -33,8 +36,25 @@ special feature.
 
 -player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
 
+`beatable confirmed`
+
 ## map 3 : attack the HQ
 
 this is attack map
 
 the map feature singular core, multiple enemy base that needed all type of unit for an attack the main base is shielded by completely unbreakable shield, the way to turn it off is to shut down every of its energy source
+
+`beatable confirmed`
+
+## map 4 : infinite defend map
+
+the map feature multiple core and droppoint but singular walk path, enemy only consist of ground unit, player is gifted with infinite amount of resource , however each turret have maximum placement unit building is banned and the map is the most enemy intensive map ever, how long could you defend this. 
+
+special feature.  
+
+- infinite resource
+- limited turret
+
+`beatable unconfirmed`
+
+## map 5 : infinite attack map

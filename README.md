@@ -15,7 +15,7 @@ the main core stationed in the middle of the map,main core consist of a lot of c
 special feature. 
 
 - player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
-- modified mono:mono now attack with rainbow blasting ability , it still have low health but blasted tier 5 away within seconds , not only that when destroyed also release self-destruction green blast, the range is low so you better prepare multiple air defense before it appeared
+- modified mono:mono now attack with rainbow blasting ability , it still have low health but blasted tier 5 away within seconds , not only that when destroyed releases self-destruction green blast, the range is low so you better prepare multiple air defense before it appeared
 - assistance unit,after set amount of time assistance unit is spawned to help the player,consist of mono which spawn almost immediatly and poly later on. the unit is specially marked with permanant buff to help them work better
 
 `beatable confirmed`

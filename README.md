@@ -24,11 +24,11 @@ special feature.
 
 this map feature singular core on medium sized island
 
-![defense island minimap](./IMG_1258.jpeg)
+![defense island minimap](./image/defendTheIsland-minimap)
 
 the starter building contain well-built storage resource-gathering energy-producing and basic-defense sythem
 
-![defense island starter core](./IMG_1260.jpeg)
+![defense island starter core](./image/defendTheIsland-core)
 
 the enemy on this map will be 20 waves of very intense fast paced navalxarial assualt from all side with each wave only have interval of 60 second
 

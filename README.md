@@ -1,14 +1,21 @@
 # what is mindusty
 
-mindusty is RTS(real time strategy) game based on defending or attacking enemy core while gathering resource build factory turret and unit
+mindusty is RTS(real time strategy) game based on defending or attacking enemy core while gathering resource build factory turret and unit.
 
 # map information
 
-mindusty map is user-created map, is stored in .bin format
+mindusty map is user-created map, is stored in .bin format.
 
 ## map 1 : center point
 
-this map feature multiple core in plain area, enemy have multiple drop point coming from all side
+this map feature multiple core in plain area, enemy have multiple drop point coming from all side with one side as special river for naval attack.  
+
+the main core stationed in the middle of the map,main core consist of a lot of core, assistance unit spawned on the main core
+
+special feature. 
+
+-player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
+-modified mono:mono now attack with rainbow blasting ability , it still have low health but blasted tier 5 away within seconds , not only that when destroyed also release self-destruction green blast
 
 ## map 2 : defend the island
 

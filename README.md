@@ -10,8 +10,11 @@ mindusty map is user-created map, is stored in `.msav` format.
 
 this map feature multiple core in plain area, enemy have multiple droppoint and coming from all side with one side as a river for naval attack.  
 
-the main core stationed in the middle of the map,main core consist of a lot of core, assistance unit spawned on the main core.
+![defense island minimap](./image/attackTheCenter-minimap.png)
 
+the main core stationed in the middle of the map,int the main core can build up to 8 extra core, assistance unit spawned on the main core.
+
+![defense island minimap](./image/attackTheCenter-maincore.png)
 special feature. 
 
 - player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost

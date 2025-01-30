@@ -53,7 +53,7 @@ the map feature singular core, multiple enemy base that needed all type of unit 
 
 the map feature multiple core and droppoint but singular walk path, enemy only consist of ground unit, player is gifted with infinite amount of resource , however each turret have maximum placement unit building is banned and the map is the most enemy intensive map ever, how long could you defend this. 
 
-###special feature.  
+### special feature.  
 
 - limited turret
 - instantaneous build speed

@@ -62,9 +62,9 @@ special feature.
 
 ## map 5 : infinite attack map
 
-this map feature the `resource factory` ,it produce either any resource or any liquid
+this map feature the `resource factory` to produce the resource so that so player can build attack unit ,core also does have infinite resource but have wall to prevent resource extraction,aerial unit can be used to bring resources
 
 ### what is resource factory
 
-`resource factory` is undestructible
+`resource factory` is undestructible building,it produce either any resource or any liquid,stationed around player's core
 

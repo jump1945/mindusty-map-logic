@@ -15,7 +15,7 @@ this map feature multiple core in plain area, enemy have multiple droppoint and 
 the main core stationed in the middle of the map,int the main core can build up to 8 extra core, assistance unit spawned on the main core.
 
 ![defense island minimap](./image/attackTheCenter-maincore.png)
-special feature. 
+### special feature. 
 
 - player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
 - modified mono:mono now attack with rainbow blasting ability , it still have low health but blasted tier 5 away within seconds , not only that when destroyed releases self-destruction green blast, the range is low so you better prepare multiple air defense before it appeared
@@ -35,7 +35,7 @@ the starter building contain well-built storage resource-gathering energy-produc
 
 the enemy on this map will be 20 waves of very intense fast paced navalxarial assualt from all side with each wave only have interval of 60 second
 
-special feature. 
+### special feature. 
 
 - player tail and speed boost,player unit will receive a tail and the slight attack/move speed boost
 
@@ -53,18 +53,23 @@ the map feature singular core, multiple enemy base that needed all type of unit 
 
 the map feature multiple core and droppoint but singular walk path, enemy only consist of ground unit, player is gifted with infinite amount of resource , however each turret have maximum placement unit building is banned and the map is the most enemy intensive map ever, how long could you defend this. 
 
-special feature.  
+###special feature.  
 
-- infinite resource
 - limited turret
+- instantaneous build speed
 
 `beatable unconfirmed`
 
 ## map 5 : infinite attack map
 
-this map feature the `resource factory` to produce the resource so that so player can build attack unit ,core also does have infinite resource but have wall to prevent resource extraction,aerial unit can be used to bring resources
+this map feature the `resource factory` to produce the resource so that so player can build attack unit ,core also does have infinite resource but have wall to prevent resource extraction,aerial unit can be used to bring resources. enemy defense is very dense and strong
 
 ### what is resource factory
 
 `resource factory` is undestructible building,it produce either any resource or any liquid,stationed around player's core
 
+### special feature
+
+- infinite resource inserter
+- resource factory
+- crux's anti-corvuz system

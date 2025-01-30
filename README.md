@@ -73,3 +73,5 @@ this map feature the `resource factory` to produce the resource so that so playe
 - infinite resource inserter
 - resource factory
 - crux's anti-corvuz system
+
+`beatable confirmed`
